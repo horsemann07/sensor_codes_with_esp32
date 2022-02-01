@@ -9,7 +9,7 @@
 7. Laser Emit ( KY-008).
 8. SMD RGB LED
 9. Tilt Switch. Imp. ( pending )
-10. Photo Resistor Module.
+10. Photo Resistor Module.(LDR)
 11. UltraSonic Module.  Imp. ( Done )
 12. Push Button.
 13. Active Buzzer   Imp. ( pending )
